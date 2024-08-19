@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering can be defined as the systematic process of designing,developing,deploying and maintenance software products.
+Software engineering can be defined as the systematic process of designing,developing,deploying and maintenaning software products.
 It is essential as it enables creation of software applications and systems that run various aspects of modern life.eg E-Commerce
 
 Identify and describe at least three key milestones in the evolution of software engineering.
